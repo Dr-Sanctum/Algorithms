@@ -1,0 +1,15 @@
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\bin\Debug\net7.0\sem4.exe
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\bin\Debug\net7.0\sem4.deps.json
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\bin\Debug\net7.0\sem4.runtimeconfig.json
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\bin\Debug\net7.0\sem4.dll
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\bin\Debug\net7.0\sem4.pdb
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\obj\Debug\net7.0\sem4.csproj.AssemblyReference.cache
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\obj\Debug\net7.0\sem4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\obj\Debug\net7.0\sem4.AssemblyInfoInputs.cache
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\obj\Debug\net7.0\sem4.AssemblyInfo.cs
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\obj\Debug\net7.0\sem4.csproj.CoreCompileInputs.cache
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\obj\Debug\net7.0\sem4.dll
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\obj\Debug\net7.0\refint\sem4.dll
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\obj\Debug\net7.0\sem4.pdb
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\obj\Debug\net7.0\sem4.genruntimeconfig.cache
+C:\Users\DioXId\Desktop\гикбрэйнс\Algorithms\sem4\obj\Debug\net7.0\ref\sem4.dll
